@@ -14,4 +14,3 @@ Office_Type: Whether the outlet is a small scale office or a larger scale one
 Asset_Office_Sales: Sales of the product in the particular office. This is the outcome variable to be predicted.
 Office_Year: Number of years which the office has been established.
 Asset: The broader category which the item belongs to (ETF, Bonds or Private Equity)
-![image](https://user-images.githubusercontent.com/93302958/220834406-df222009-a053-423d-b9dc-84042a4aba24.png)
